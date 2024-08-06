@@ -1,5 +1,5 @@
 # Question.1 you are given below string take the sum of all the sale amount
-# please nate that string object may have space as well!
+# please note that string object may have space as well!
 
 
 sales = '100, unknown, unknown,     20, 20, 10'
